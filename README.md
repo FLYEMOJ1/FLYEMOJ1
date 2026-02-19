@@ -4,21 +4,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FLYEMOJ1&label=Profile views&color=0e75b6&style=flat" alt="FLYEMOJ1" /> </p>
 
-- 🔭 I'm currently working on **Kiwoom-Trading-Bot-RS, GuiTu (A More Optimized Airline Route Transfer to OTA.)**
+- 🔭 I'm currently working on - **Kiwoom-Trading-Bot-RS, GuiTu (A More Optimized Airline Route Transfer to OTA.)**
 
-- 🌱 I'm currently learning **Rust, GoLang**
+- 🌱 I'm currently learning - **Rust, GoLang**
 
-- 👯 I'm looking to collaborate on **GDG On Campus (KUGDG)**
+- 👯 I'm looking to collaborate on - **GDG On Campus (KUGDG)**
 
-- 💬 Ask me about **Whatever. From Developing to Life details.**
+- 💬 Ask me about: **Whatever. From Developing to Life details.**
 
-- 📫 How to reach me **me@flyemoji.moe**
+- 📫 How to reach me - **me@flyemoji.moe**
 
-- ⚡ Fun fact **No fun for me. Just a nerd.**
+- ⚡ Fun fact @ **No fun for me. Just a nerd.**
 
-- 👨‍💻 All of my projects are available at **[https://flyemoji.moe](https://flyemoji.moe)**
+- My Personal Info Page is @ **[https://flyemoji.moe](https://flyemoji.moe)**
 
-- 📝 I regularly write articles on **[https://blog.flyemoji.mome](https://blog.flyemoji.mome)**
+- 📝 I regularly(not) write articles on @ **[https://blog.flyemoji.mome](https://blog.flyemoji.mome)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
